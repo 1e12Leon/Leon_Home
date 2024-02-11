@@ -64,18 +64,23 @@ sections:
       items:
         - title: Postgraduate
           company: Hohai University
-          company_url: ''
+          company_url: 'https://www.hhu.edu.cn/'
           location: Nan Jing
           date_start: '2022-09-01'
-          date_end: '2025-06-30'
-          description: ''
+          date_end: ''
+          description: |2-
+              研究方向:
+
+              * 特征解耦表示
+              * 无人机多模态目标检测
+              * 无人机视角人脸检测与识别
         - title: Undergraduate
           company: Hohai University
           company_url: ''
           location: Nan Jing
           date_start: '2018-09-01'
-          date_end: '2022-6-31'
-          description: ''
+          date_end: '2022-06-31'
+          description: 'Computer Science'
     design:
       columns: '2'
   - block: accomplishments

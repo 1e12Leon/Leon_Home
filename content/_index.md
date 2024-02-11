@@ -68,12 +68,14 @@ sections:
           location: Nan Jing
           date_start: '2022-09-01'
           date_end: '2025-06-30'
+          description: ''
         - title: Undergraduate
           company: Hohai University
           company_url: ''
           location: Nan Jing
           date_start: '2018-09-01'
           date_end: '2022-6-31'
+          description: ''
     design:
       columns: '2'
   - block: accomplishments

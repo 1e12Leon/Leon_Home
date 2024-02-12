@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf:  https://doi.org/10.1007/978-981-99-8565-4_21
+url_pdf:  'journal-article/Single_Sample_Face_Recognition_Based_on_Identity_Attribute_Disentanglement_and_Adversarial_Feature_Augmentation.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -120,13 +120,13 @@ sections:
         - date_end: ''
           date_start: '2021-01-01'
           description: 'Accurately predicted the spread of imported cases from overseas and ranked in the Top 10 in the national finals of the track'
-          organization: **中国计算机学会(CCF)**
+          organization: '**中国计算机学会(CCF)**'
           title: CCF 大数据与计算智能大赛“科技战疫”大数据公益挑战赛**优胜方案奖**
           url: ''
         - date_end: ''
           date_start: '2021-12-01'
           description: 'at The International Conference on Computer Engineering and Networks, CENet2022'
-          organization: **中国共产主义青年团江苏省委员会**
+          organization: '**中国共产主义青年团江苏省委员会**'
           title: “挑战杯”全国大学生课外学术科技作品竞赛**江苏省二等奖**
           url: ''
     design:

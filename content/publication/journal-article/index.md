@@ -1,28 +1,28 @@
 ---
-title: "Single Sample Face Recognition Based on Identity Attribute Disentanglement and Adversarial Feature Augmentation"
+title: "Single Sample Face Recognition Based on Identity-Attribute Disentanglement and Adversarial Feature Augmentation"
 authors:
 - admin
 - Liu Fan
 date: "2015-09-01T00:00:00Z"
-doi: ""
+doi: " https://doi.org/10.1007/978-981-99-8565-4_21"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-12-02T00:00:00Z"
+publishDate: "2023-12-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-conference"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Chinese Conference on Biometric Recognition*"
-publication_short: "CCBR2023"
+publication: "*Journal of Source Themes, 1*(1)"
+publication_short: ""
 
-abstract: To address the issue of facial variation interference, this paper proposes a novel approach for single sample face recognition. Inspired by human visual perception, we introduce an attribute disentanglement module to separate identity features from attribute features using canonical correlation analysis. Due to the lack of attribute labels in the single
-sample set, we utilize the attribute features of the generic set to construct the SOM attribute space. Then, we fine-tune the network by reducing the distance between the attribute features of single sample and the attribute space. Finally, we use feature adversarial augmentation module to generate more intra-class features and train more robust classifier. Experimental results on AR, LFW and FERET datasets show significant improvements in accuracy and generalization performance compared to other methods.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Single Sample Face Recognition Based on Identity-Attribute Disentanglement and Adversarial Feature Augmentation.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
 tags:
 - Source Themes
 featured: false
@@ -30,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://link.springer.com/chapter/10.1007/978-981-99-8565-4_21
+url_pdf:  https://doi.org/10.1007/978-981-99-8565-4_21
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -60,4 +60,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-

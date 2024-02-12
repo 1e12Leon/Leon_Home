@@ -32,22 +32,9 @@ publication_types: ['paper-conference']
 publication: In *International Joint Conference on Artificial Intelligence*
 publication_short: In *IJCAI2024*
 
-abstract: Detecting objects from Unmanned Aerial Vehicles (UAV) is often hindered by a large number
-of small objects, resulting in low detection accuracy. To address this issue, mainstream approaches
-typically utilize multi-stage inferences. Despite
-their remarkable detecting accuracies, real-time efficiency is sacrificed, making them less practical
-to handle real applications. To this end, we propose to improve the single-stage inference accuracy
-through learning scale-invariant features. Specifically, a Scale-Invariant Feature Disentangling module is designed to disentangle scale-related and
-scale-invariant features. Then an Adversarial Feature Learning scheme is employed to enhance disentanglement. Finally, scale-invariant features are
-leveraged for robust UAV-based object detection.
-Furthermore, we construct a multi-modal UAV object detection dataset, State-Air, which incorporates
-annotated UAV state parameters. We apply our approach to three state-of-the-art lightweight detection frameworks on three benchmark datasets, including State-Air. Extensive experiments demonstrate that our approach can effectively improve
-model accuracy. Our code and dataset are provided
-in Supplementary Materials and will be publicly
-available once the paper is accepted.
+abstract: Detecting objects from Unmanned Aerial Vehicles (UAV) is often hindered by a large number of small objects, resulting in low detection accuracy. To address this issue, mainstream approaches typically utilize multi-stage inferences. Despite their remarkable detecting accuracies, real-time efficiency is sacrificed, making them less practical to handle real applications. To this end, we propose to improve the single-stage inference accuracy through learning scale-invariant features. Specifically, a Scale-Invariant Feature Disentangling module is designed to disentangle scale-related and scale-invariant features. Then an Adversarial Feature Learning scheme is employed to enhance disentanglement. Finally, scale-invariant features are leveraged for robust UAV-based object detection. Furthermore, we construct a multi-modal UAV object detection dataset, State-Air, which incorporates annotated UAV state parameters. We apply our approach to three state-of-the-art lightweight detection frameworks on three benchmark datasets, including State-Air. Extensive experiments demonstrate that our approach can effectively improve model accuracy. Our code and dataset are provided in Supplementary Materials and will be publicly available once the paper is accepted.
 # Summary. An optional shortened abstract.
-summary: Scale-Invariant Feature Disentanglement via Adversarial Learning for UAV-based
-Object Detection
+summary: Scale-Invariant Feature Disentanglement via Adversarial Learning for UAV-based Object Detection
 
 tags: []
 

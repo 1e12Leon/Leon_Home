@@ -80,7 +80,7 @@ sections:
           location: 中国南京
           date_start: '2018-09-01'
           date_end: '2022-06-30'
-          description: 计算机科学与技术.
+          description: 计算机科学与技术
     design:
       columns: '2'
   - block: accomplishments
@@ -98,12 +98,12 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-12-21'
           description: ''
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: 全球校园人工智能算法精英大赛全国总决赛一等奖
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''

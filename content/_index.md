@@ -79,14 +79,14 @@ sections:
           company_url: ''
           location: 中国南京
           date_start: '2018-09-01'
-          date_end: '2022-06-31'
+          date_end: '2022-06-30'
           description: 计算机科学与技术.
     design:
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Awards'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006

@@ -1,5 +1,5 @@
 ---
-title: 'Single Sample Face Recognition Based on Identity_Attribute Disentanglement and Adversarial Feature Augmentation'
+title: 'Single Sample Face Recognition Based on Identity\-Attribute Disentanglement and Adversarial Feature Augmentation'
 authors:
 - admin
 - Liu Fan

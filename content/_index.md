@@ -52,7 +52,7 @@ sections:
       columns: '1'
   - block: experience
     content:
-      title: Awards
+      title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -74,20 +74,19 @@ sections:
               * 无人机多模态目标检测
               * 特征解耦表示学习
               * 人脸检测与识别
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Bachelor
+          company: Hohai University
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: 中国南京
+          date_start: '2018-09-01'
+          date_end: '2022-06-31'
+          description: 计算机科学与技术.
     design:
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Awards'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006

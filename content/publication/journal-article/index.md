@@ -3,9 +3,6 @@ title: 'Single Sample Face Recognition Based on Identity Attribute Disentangleme
 authors:
 - admin
 - Liu Fan
-author_notes:
-- ""
-- ""
 date: "2015-09-01T00:00:00Z"
 doi: ""
 

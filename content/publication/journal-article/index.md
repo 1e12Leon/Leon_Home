@@ -2,8 +2,9 @@
 title: "Single Sample Face Recognition Based on Identity-Attribute Disentanglement and Adversarial Feature Augmentation"
 authors:
 - admin
-- Liu Fan
-date: "2015-09-01T00:00:00Z"
+- 刘凡
+- 欧志权
+date: "2023-10-01T00:00:00Z"
 doi: " https://doi.org/10.1007/978-981-99-8565-4_21"
 
 # Schedule page publish date (NOT publication's date).

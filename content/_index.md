@@ -101,23 +101,34 @@ sections:
           description: '**First Prize** in the National Finals of the Global Campus Artificial Intelligence Algorithm Elite Competition'
           title: 全球校园人工智能算法精英大赛**全国总决赛一等奖**
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
+        - date_end: ''
+          date_start: '2021-05-01'
+          description: **First Prize** at Mathematical Contest In Modeling.
+          title: 美国大学生数学建模大赛 **Meritorious Winner**
+          url: ''
+        - date_end: ''
+          date_start: '2022-08-21'
+          description: '**Third Prize** in the Finals of the "China Software Cup" College Student Software Design Competition'
+          organization: **工信部、教育部、江苏省人民政府**
+          title: “中国软件杯”大学生软件设计大赛**总决赛三等奖**
+          url: ''
+        - date_end: ''
+          date_start: '2022-10-01'
+          description: 'at The International Conference on Computer Engineering and Networks, CENet2022'
+          title: “远见杯”元智能数据挑战大赛**决赛二等奖**
+          url: ''
+        - date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          description: 'CCF Big Data and Computational Intelligence Competition - Winning Plan Award in the "Technology War Epidemic" Big Data Public Welfare Challenge'
+          icon: ccf
+          organization: **中国计算机学会(CCF)**
+          title: CCF 大数据与计算智能大赛-“科技战疫”大数据公益挑战赛**优胜方案奖**
+          url: ''
+        - date_end: ''
+          date_start: '2021-12-01'
+          description: 'at The International Conference on Computer Engineering and Networks, CENet2022'
+          organization: **中国共产主义青年团江苏省委员会**
+          title: “挑战杯”全国大学生课外学术科技作品竞赛**江苏省二等奖**
           url: ''
     design:
       columns: '2'

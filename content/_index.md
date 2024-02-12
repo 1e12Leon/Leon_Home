@@ -120,7 +120,6 @@ sections:
         - date_end: ''
           date_start: '2021-01-01'
           description: 'CCF Big Data and Computational Intelligence Competition - Winning Plan Award in the "Technology War Epidemic" Big Data Public Welfare Challenge'
-          icon: ccf
           organization: **中国计算机学会(CCF)**
           title: CCF 大数据与计算智能大赛-“科技战疫”大数据公益挑战赛**优胜方案奖**
           url: ''

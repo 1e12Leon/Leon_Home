@@ -125,7 +125,7 @@ sections:
           url: ''
         - date_end: ''
           date_start: '2021-12-01'
-          description: 'at The International Conference on Computer Engineering and Networks, CENet2022'
+          description: 'Challenge Cup National College Students Extracurricular Academic and Technological Works Competition **Second Prize in Jiangsu Province**'
           organization: '**中国共产主义青年团江苏省委员会**'
           title: “挑战杯”全国大学生课外学术科技作品竞赛**江苏省二等奖**
           url: ''

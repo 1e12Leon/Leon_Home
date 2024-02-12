@@ -103,13 +103,13 @@ sections:
           url: ''
         - date_end: ''
           date_start: '2021-05-01'
-          description: **First Prize** at Mathematical Contest In Modeling.
+          description: '**First Prize** at Mathematical Contest In Modeling'
           title: 美国大学生数学建模大赛 **Meritorious Winner**
           url: ''
         - date_end: ''
           date_start: '2022-08-21'
           description: '**Third Prize** in the Finals of the "China Software Cup" College Student Software Design Competition'
-          organization: **工信部、教育部、江苏省人民政府**
+          organization: '**工信部、教育部、江苏省人民政府**'
           title: “中国软件杯”大学生软件设计大赛**总决赛三等奖**
           url: ''
         - date_end: ''

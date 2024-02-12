@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf:  'Single_Sample_Face_Recognition_Based_on_Identity_Attribute_Disentanglement_and_Adversarial_Feature_Augmentation.pdf'
+url_pdf:  './Single_Sample_Face_Recognition_Based_on_Identity_Attribute_Disentanglement_and_Adversarial_Feature_Augmentation.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

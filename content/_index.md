@@ -62,31 +62,33 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Postgraduate
-          company: Hohai University
-          company_url: 'https://www.hhu.edu.cn/'
-          location: Nan Jing
-          date_start: '2022-09-01'
+        - title: CEO
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
           date_end: ''
           description: |2-
-              研究方向:
+              Responsibilities include:
 
-              * 特征解耦表示
-              * 无人机多模态目标检测
-              * 无人机视角人脸检测与识别
-        - title: Undergraduate
-          company: Hohai University
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
           company_url: ''
-          location: Nan Jing
-          date_start: '2018-09-01'
-          date_end: '2022-06-31'
-          description: 'Computer Science'
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Awards'
+      title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006

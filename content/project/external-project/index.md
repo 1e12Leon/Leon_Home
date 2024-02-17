@@ -19,7 +19,7 @@ links:
     url: https://github.com/1e12Leon/UAV-LODBoost
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'https://hhu-leons-organization.gitbook.io/yolo-framework/'
 url_video: ''
 ---
 

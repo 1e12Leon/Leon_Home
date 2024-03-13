@@ -44,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: './AerialFace__A_Light_Weight_Framework_for_UAV_Face_Recognition.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
